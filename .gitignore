@@ -1,0 +1,23 @@
+# 编译产物
+build/
+*.o
+*.obj
+*.a
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 日志 / 临时
+*.log
+*.tmp
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

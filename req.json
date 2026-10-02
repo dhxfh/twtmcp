@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"gg_search_range","arguments":{"min":"-1.0","max":"1.0","type":"float","region":"anon","limit":3000}}}

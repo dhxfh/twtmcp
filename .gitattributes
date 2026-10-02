@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.hpp text eol=lf
+*.cpp text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+build/twtmcp binary
